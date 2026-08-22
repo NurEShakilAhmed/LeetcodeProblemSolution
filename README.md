@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
+| [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
