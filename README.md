@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
