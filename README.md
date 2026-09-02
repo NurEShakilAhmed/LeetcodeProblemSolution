@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0709-to-lower-case) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
