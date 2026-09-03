@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0709-to-lower-case) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
