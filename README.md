@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1920-build-array-from-permutation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1539-kth-missing-positive-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
