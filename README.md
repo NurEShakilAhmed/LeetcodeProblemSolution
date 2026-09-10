@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
