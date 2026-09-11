@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1539-kth-missing-positive-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1539-kth-missing-positive-number) |
