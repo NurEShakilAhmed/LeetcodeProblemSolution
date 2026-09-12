@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -147,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
