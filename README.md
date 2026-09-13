@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0647-palindromic-substrings) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Queue
