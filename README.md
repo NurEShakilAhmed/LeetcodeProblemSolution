@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0290-word-pattern) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0367-valid-perfect-square) |
 | [3870-count-commas-in-range](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3871-count-commas-in-range-ii) |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
