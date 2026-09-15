@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
