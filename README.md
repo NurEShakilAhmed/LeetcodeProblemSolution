@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
 | ------- |
