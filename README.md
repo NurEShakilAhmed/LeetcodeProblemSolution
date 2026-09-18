@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1314-matrix-block-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1314-matrix-block-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
