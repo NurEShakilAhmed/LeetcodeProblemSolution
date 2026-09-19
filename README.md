@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1314-matrix-block-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0567-permutation-in-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1480-running-sum-of-1d-array) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0836-rectangle-overlap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [3870-count-commas-in-range](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
