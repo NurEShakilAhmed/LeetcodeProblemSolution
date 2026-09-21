@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2574-left-and-right-sum-differences) |
+| [3524-find-x-value-of-array-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3524-find-x-value-of-array-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
+| [3524-find-x-value-of-array-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
