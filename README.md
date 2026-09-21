@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0219-contains-duplicate-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0219-contains-duplicate-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0387-first-unique-character-in-a-string) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -364,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
