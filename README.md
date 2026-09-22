@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0876-middle-of-the-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
