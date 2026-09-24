@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0205-isomorphic-strings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0237-delete-node-in-a-linked-list) |
