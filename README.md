@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2574-left-and-right-sum-differences) |
 | [3524-find-x-value-of-array-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [3524-find-x-value-of-array-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
