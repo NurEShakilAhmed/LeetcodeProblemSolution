@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0202-happy-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0206-reverse-linked-list) |
@@ -409,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
