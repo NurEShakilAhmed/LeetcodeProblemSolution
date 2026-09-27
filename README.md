@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1544-make-the-string-great) |
