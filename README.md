@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1678-goal-parser-interpretation) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
