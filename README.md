@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
