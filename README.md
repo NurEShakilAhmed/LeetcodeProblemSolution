@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2055-plates-between-candles) |
+| [2390-removing-stars-from-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
