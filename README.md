@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0567-permutation-in-string) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
