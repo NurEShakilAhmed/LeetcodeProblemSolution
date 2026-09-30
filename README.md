@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
@@ -474,5 +476,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
