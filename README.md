@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0119-pascals-triangle-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0198-house-robber) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1672-richest-customer-wealth) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
