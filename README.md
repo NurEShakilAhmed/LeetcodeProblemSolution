@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0119-pascals-triangle-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
