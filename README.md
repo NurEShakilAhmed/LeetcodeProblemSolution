@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0523-continuous-subarray-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0739-daily-temperatures) |
@@ -496,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
