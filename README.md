@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0142-linked-list-cycle-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0119-pascals-triangle-ii) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0316-remove-duplicate-letters) |
