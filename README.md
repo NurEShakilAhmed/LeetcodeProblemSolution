@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0876-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0962-maximum-width-ramp) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
