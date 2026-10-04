@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
