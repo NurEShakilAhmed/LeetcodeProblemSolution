@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0456-132-pattern) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0380-insert-delete-getrandom-o1) |
