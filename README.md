@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -595,5 +596,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0301-remove-invalid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
