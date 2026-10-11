@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -631,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
