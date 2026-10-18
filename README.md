@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0704-binary-search) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NurEShakilAhmed/LeetcodeProblemSolution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
